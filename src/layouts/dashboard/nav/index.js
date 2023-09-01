@@ -54,7 +54,8 @@ export default function Nav({ openNav, onCloseNav }) {
       }}
     >
       <Box sx={{ px: 2.5, py: 3, display: 'inline-flex' }}>
-        <Logo />
+        {/* <Logo /> */}
+        ARLTECH
       </Box>
 
       <Box sx={{ mb: 5, mx: 2.5 }}>
